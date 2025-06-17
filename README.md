@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title> Usman Shittu – GitHub Profile</title>
   
 </head>
 <body>
@@ -36,7 +35,7 @@ Here are some ideas to get you started:
   <section id="about">
     <h2>About Me</h2>
     <p>
-      Hello! I’m <strong>{{Usman Shittu}}</strong>, a learner at ALX Front-End Software Engineering.  
+      Hello! I’m <strong>Usman Shittu</strong>, a learner at ALX Front-End Software Engineering.  
       I believe in the power of <em>knowledge</em> to transform ideas into real-world solutions and the pursuit of excellence to create value.  
       My mission is to <strong>acquire deep technical expertise</strong> and leverage it to make the technology world smarter, more efficient, and more inclusive.
     </p>
