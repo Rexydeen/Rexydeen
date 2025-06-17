@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>{{Usman Shittu}} – GitHub Profile</title>
+  <title> Usman Shittu – GitHub Profile</title>
   
 </head>
 <body>
 
   <header>
-    <h1>{{Usman shittu}}</h1>
+    <h1>Usman shittu</h1>
     <p class="lead">Aspiring Front-End Software Engineer | Driven by Knowledge &amp; Impact</p>
     <p>
       <span class="badge">💼 ALX Front-End FE</span>
