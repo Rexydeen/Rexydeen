@@ -19,18 +19,7 @@ Here are some ideas to get you started:
 <head>
   <meta charset="UTF-8" />
   <title>{{Usman Shittu}} – GitHub Profile</title>
-  <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; padding: 2rem; max-width: 800px; margin: auto; }
-    header { text-align: center; margin-bottom: 2rem; }
-    h1 { font-size: 2.5rem; margin-bottom: 0; }
-    h2 { font-size: 1.75rem; margin-top: 2rem; border-bottom: 2px solid #eee; padding-bottom: .3rem; }
-    p.lead { font-size: 1.125rem; color: #555; }
-    .badge { display: inline-block; padding: .2rem .6rem; margin: .2rem; background: #f1f1f1; border-radius: .3rem; font-size: .875rem; }
-    .tech-list, .project-list { list-style: none; padding-left: 0; }
-    .tech-list li, .project-list li { margin-bottom: .5rem; }
-    .project-card { border: 1px solid #e1e4e8; padding: 1rem; border-radius: .5rem; margin-bottom: 1rem; }
-    a.button { display: inline-block; padding: .5rem 1rem; margin-top: .5rem; background: #0366d6; color: white; text-decoration: none; border-radius: .3rem; }
-  </style>
+  
 </head>
 <body>
 
